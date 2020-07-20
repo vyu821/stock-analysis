@@ -21,7 +21,7 @@
         ticker = tickers(i)
         totalVolume = 0
         
-        'second loop goes through all the rows in "2018" sheet
+        'second loop goes through all the rows in yearValue sheet
         For j = 2 To rowEnd
             Worksheets(yearValue).Activate
 ...

@@ -7,12 +7,12 @@
 ## Results
 
 ### Original Code Performance Times
-![2017_Time_Results](https://github.com/vyu821/stock-analysis/blob/master/resources/2017_Time_Results.png)
-![2018_Time_Results](https://github.com/vyu821/stock-analysis/blob/master/resources/2018_Time_Results.png)
+![2017_Time_Results](https://github.com/vyu821/stock-analysis/blob/master/challenge/resources/2017_Time_Results.png)
+![2018_Time_Results](https://github.com/vyu821/stock-analysis/blob/master/challenge/resources/2018_Time_Results.png)
 
 ### Refactored Code Performance Times
-![VBA_Challenge_2017](https://github.com/vyu821/stock-analysis/blob/master/resources/VBA_Challenge_2017.png)
-![VBA_Challenge_2018](https://github.com/vyu821/stock-analysis/blob/master/resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2017](https://github.com/vyu821/stock-analysis/blob/master/challenge/resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](https://github.com/vyu821/stock-analysis/blob/master/challenge/resources/VBA_Challenge_2018.png)
 
 ### Original Code
 ```
